@@ -5,7 +5,6 @@ The Book Management Service is a microservice designed to manage  CRUD operation
 ## Overview
 
 ---
-The Book Exchange Platform is designed to facilitate book exchange for book lovers in a larger scale.
 It includes different core service like:
 - BookListing Service: Manages search books with filter options
 - ManageBookService:   Manages add, edit and deletion of books
